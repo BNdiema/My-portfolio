@@ -15,7 +15,7 @@ h3 {
   font-style: oblique;
 }
 p {
-  color: black;
+  color: white;
   text-align: center;
   display: block;
   font-family: impact, Charcoal, sans-serif;
@@ -30,10 +30,18 @@ body {
 }
 ol {
   font-family: impact, Charcoal, sans-serif;
-  background-image: url(../image/high.jpg);
+  background-image: url(../image/j.jpeg);
   background-repeat: no-repeat;
   background-position: left;
-  background-size: 170px 170px;
-  background-origin: padding-box;
+  background-size: 190px 400px;
+  border: 190px 400px;
+  border-width: thick;
+  color: navy;
+borderimg {
+  border: 3px solid blue;
 }
-img {}
+h3 {
+  display: block;
+  font-family: sans-serif;
+  text-decoration-line: underline;
+}

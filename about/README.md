@@ -1,10 +1,10 @@
-# {Portfolio Webpage}
-#### {A Webpage giving a detailed footprint of, who I am my, Job experience, Education background, aquired skills, Intrests and Hobbies with a track of my projects in Softwear development   }, {Date of current version}
+# Portfolio Webpage
+#### A Webpage giving a detailed footprint of, who I am my, Job experience, Education background, aquired skills, Intrests and Hobbies with a track of my projects in Softwear development, {Date of current version}
 #### By **{Brian Ndiema}**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This Webpage is used to show case my skills and ability in verious fields, but giving an in depth view in Softwear development. It provides a platform to showcase some of my work in coding and sowtwear development.
 ## Setup/Installation Requirements
-* This is a great place
+* 
 * to list setup instructions
 * in a simple
 * easy-to-understand

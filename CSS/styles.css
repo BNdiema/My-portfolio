@@ -45,3 +45,7 @@ h3 {
   font-family: sans-serif;
   text-decoration-line: underline;
 }
+a :active {
+  color: yellow;
+  background: solid yellow;
+}

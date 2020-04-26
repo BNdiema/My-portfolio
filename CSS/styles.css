@@ -30,5 +30,10 @@ body {
 }
 ol {
   font-family: impact, Charcoal, sans-serif;
-
+  background-image: url(../image/high.jpg);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: 170px 170px;
+  background-origin: padding-box;
 }
+img {}

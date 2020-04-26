@@ -14,5 +14,5 @@ This Webpage is used to show case my skills and ability in verious fields, but g
 ## Support and contact details
 {Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
 ### License
-*{Check out full license.}*
+Check out full license [here](about/LICENCE.txt)
 Copyright (c) {year} **{List of contributors or company name}**

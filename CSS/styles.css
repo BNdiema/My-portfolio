@@ -1,10 +1,16 @@
 h2 {
-  color: blue;
+  color: navy;
   text-align: center;
 }
 h3 {
   color: orange;
   font-family: cursive;
-  text-align: left; 
-
+  text-align: left;
+}
+ol {
+  font-family: sans-serifbold;
+  line-height: 20px;
+  text-align: left;
+  background: grey;
+  background-size: cover;
 }

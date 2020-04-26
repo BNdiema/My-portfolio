@@ -1,16 +1,16 @@
 h2 {
-  color: navy;
+  color: teal;
   text-align: center;
 }
 h3 {
-  color: orange;
+  color: maroon;
   font-family: cursive;
   text-align: left;
+  font-style: oblique;
 }
-ol {
-  font-family: sans-serifbold;
-  line-height: 20px;
-  text-align: left;
-  background: grey;
-  background-size: cover;
+p {
+  color: black;
+  }
+body{
+  background-image: url(https://mcdn.wallpapersafari.com/medium/43/52/ENiPzj.jpg);
 }

@@ -1,6 +1,12 @@
 h2 {
-  color: teal;
+  color: brown;
+  text-decoration-line: underline;
   text-align: center;
+  font-family: impact, Charcoal, sans-serif;
+  background-size: cover;
+  margin-top: inherit;
+  opacity: 100%;
+  background-clip: border-box;
 }
 h3 {
   color: maroon;
@@ -10,7 +16,19 @@ h3 {
 }
 p {
   color: black;
-  }
-body{
-  background-image: url(https://mcdn.wallpapersafari.com/medium/43/52/ENiPzj.jpg);
+  text-align: center;
+  display: block;
+  font-family: impact, Charcoal, sans-serif;
+  font-size: 20px;
+ }
+body {
+  background-image: url(../image/sky.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  border: 3px solid blue;
+}
+ol {
+  font-family: impact, Charcoal, sans-serif;
+
 }

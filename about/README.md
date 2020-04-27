@@ -15,5 +15,5 @@ Used HTML, CSS and MARKDOWN language.
 ## Support and contact details
 Yor are invited to make a contribution to the code. You can reach me on the contact information for any clerification
 ### License
-Check out full license [here](about/LICENCE.txt)
+Check out full license [here](../about/LICENCE.txt)
 Copyright (c) 2020

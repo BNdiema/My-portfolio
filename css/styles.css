@@ -1,0 +1,12 @@
+h1 {
+  color: black;
+  font-style: normal;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 30vw;
+  font-size: 5vh;
+  align-content: center;
+}
+
+container {
+  padding-left: 20%;
+}

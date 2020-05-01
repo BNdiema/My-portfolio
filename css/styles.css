@@ -4,13 +4,40 @@ h1 {
   font-family: Georgia, 'Times New Roman', Times, serif;
   columns: 100vw;
   columns: 100vh;
-  text-align: center;
+  text-align: top-left;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: lighter;
-  font-size: 30vw;
-  font-size: 15vh;
+  font-size: 5vw;
+  font-size: 5vh;
+  padding: 0%;
 }
 body {
   background-size: 100% 100%;
-  t
+  margin: 2%;
+  padding: 2%;
+}
+
+h2 {
+  color: rgb(199, 204, 203);
+  font-style: normal;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  columns: 100vw;
+  columns: 100vh;
+  text-align: center
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: lighter;
+  font-size: 10vw;
+  font-size: 7vh;
+  margin: 5%
+}
+img {
+  class: rounded;
+  vertical-align: left;
+}
+style {
+  position: relative;
+  text-align: left;
+  text-decoration-color: honeydew;
+  
+  
 }
